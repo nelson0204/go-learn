@@ -1,6 +1,5 @@
 # Exercises
 
-
 ## Ex-01
 - Utilizando o operador curto de declaração, atribua estes valores às variáveis com os identificadores `x, y, z` .
 
@@ -57,3 +56,31 @@
     - Demonstre o tipo de "y"
 ## EX-06
 - Link: https://goo.gl/forms/s9y91iVSPvA4iahj1
+## EX-07
+- Escreva um programa que mostre um número em decimal, binário, e hexadecimal.
+## EX-08
+- Escreva expressões utilizando os seguintes operadores, e atribua seus valores a variáveis.
+    - ==
+    - !=
+    - <=
+    - <
+    - \>=
+    - \>
+- Demonstre estes valores.
+## EX-09
+- Crie constantes tipadas e não-tipadas.
+- Demonstre seus valores.
+## EX-10
+- Crie um programa que:
+    - Atribua um valor int a uma variável
+    - Demonstre este valor em decimal, binário e hexadecimal
+    - Desloque os bits dessa variável 1 para a esquerda, e atribua o resultado a outra variável
+    - Demonstre esta outra variável em decimal, binário e hexadecimal
+## EX-11
+- Crie uma variável de tipo string utilizando uma raw string literal.
+- Demonstre-a.
+## EX-12
+- Utilizando iota, crie 4 constantes cujos valores sejam os próximos 4 anos.
+- Demonstre estes valores.
+## EX-13
+- Link: https://forms.gle/7KnotnBg3qXvGGyj7
